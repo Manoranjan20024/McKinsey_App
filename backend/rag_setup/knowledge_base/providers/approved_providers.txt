@@ -1,0 +1,41 @@
+APPROVED NETWORK PROVIDER DIRECTORY
+Health Insurance Network — Version 3.2
+Last Updated: March 2026
+ 
+TIER 1 — PREMIUM NETWORK HOSPITALS
+Apollo Hospitals — All branches across India
+Fortis Healthcare — All branches across India
+Max Healthcare — All branches across India
+Manipal Hospitals — All branches across India
+Narayana Health — All branches across India
+Columbia Asia Hospitals — All branches
+KIMS Hospitals — All branches
+Aster DM Healthcare — All branches
+Kokilaben Dhirubhai Ambani Hospital — Mumbai
+Lilavati Hospital — Mumbai
+Breach Candy Hospital — Mumbai
+P.D. Hinduja Hospital — Mumbai
+Jaslok Hospital — Mumbai
+Medanta The Medicity — Gurugram
+Indraprastha Apollo Hospital — New Delhi
+Sir Ganga Ram Hospital — New Delhi
+AIIMS — All campuses
+CMC Vellore
+Christian Medical College — Ludhiana
+ 
+TIER 2 — STANDARD NETWORK HOSPITALS
+Vikram Hospital — Bengaluru
+Sakra World Hospital — Bengaluru
+BGS Gleneagles — Bengaluru
+MIOT International — Chennai
+Kauvery Hospital — Chennai
+Global Hospitals — Chennai
+Yashoda Hospitals — Hyderabad
+Care Hospitals — Hyderabad
+Continental Hospitals — Hyderabad
+ 
+TIER 3 — DIAGNOSTIC CENTRES
+Dr Lal PathLabs — All centres
+SRL Diagnostics — All centres
+Metropolis Healthcare — All centres
+Thyrocare Technologies — All centres

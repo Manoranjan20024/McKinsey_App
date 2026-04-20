@@ -1,0 +1,44 @@
+HEALTH INSURANCE DOCUMENT CHECKLIST v2.1
+Effective Date: January 2026
+Authority: IRDAI Document Standards
+ 
+SECTION 1: IMAGE QUALITY STANDARDS
+Rule 1.1: All submitted documents must have a minimum image resolution of 150 DPI.
+Rule 1.2: Documents must not be blurry. Laplacian variance must be greater than 100.
+Rule 1.3: Document pages must be fully visible with no cropped edges.
+Rule 1.4: Document must be in upright orientation. Rotated documents will be rejected.
+ 
+SECTION 2: MANDATORY FIELDS — MEDICAL BILL
+Rule 2.1: Medical bill must contain the full name of the patient.
+Rule 2.2: Medical bill must include the date of service or treatment date.
+Rule 2.3: Medical bill must show the name and address of the hospital or clinic.
+Rule 2.4: Medical bill must include a diagnosis code (ICD-10) or diagnosis description.
+Rule 2.5: Medical bill must list itemized treatment charges or a total bill amount.
+Rule 2.6: Medical bill must bear the signature of the treating doctor.
+Rule 2.7: Medical bill must include the hospital registration or license number.
+ 
+SECTION 3: MANDATORY FIELDS — PRESCRIPTION
+Rule 3.1: Prescription must include the full name of the patient.
+Rule 3.2: Prescription must include the name and registration number of the prescribing doctor.
+Rule 3.3: Prescription must include medication names, dosage, and duration.
+Rule 3.4: Prescription must be dated and within 30 days of the date of claim.
+ 
+SECTION 4: MANDATORY FIELDS — DISCHARGE SUMMARY
+Rule 4.1: Discharge summary must include admission and discharge dates.
+Rule 4.2: Discharge summary must include the primary diagnosis.
+Rule 4.3: Discharge summary must include the treating doctor's name and signature.
+Rule 4.4: Discharge summary must include the hospital name and letterhead.
+ 
+SECTION 5: CROSS-DOCUMENT CONSISTENCY
+Rule 5.1: Patient name must match across all submitted documents with at least 85% similarity.
+Rule 5.2: Policy number must be consistent across all documents where applicable.
+Rule 5.3: Date of service must not be earlier than policy inception date.
+Rule 5.4: Date of service must not be later than policy expiry date.
+ 
+SECTION 6: PROVIDER VERIFICATION
+Rule 6.1: The treating hospital or clinic must be listed in the approved network provider directory.
+Rule 6.2: For non-network providers, a referral letter from a network provider is required.
+ 
+SECTION 7: DUPLICATE DETECTION
+Rule 7.1: Documents previously submitted for the same claim period will be rejected as duplicates.
+Rule 7.2: The same bill cannot be submitted under multiple claim IDs.
